@@ -7,7 +7,8 @@ Attrition Risk Early-Warning System — predictive modeling + Tableau dashboard 
 ## Highlights
 - XGBoost classifier trained on IBM HR Attrition dataset.  
 - AUC = 0.82 (test set).  
-- SHAP values explain top attrition drivers (overtime, pay, tenure).  
+- SHAP values explain top attrition drivers (overtime, pay, tenure).
+- “SHAP analysis revealed that Overtime, Stock Option Level, and Monthly Income were the top drivers of attrition risk.”
 - Tableau dashboard for executives: [Attrition Command Center](https://public.tableau.com/app/profile/vishnu.thogiti/viz/AttritionCommandCenterVishnuThogiti/AttritionCommandCenter).  
 - Excel pivot demo for HR business partners.  
 
