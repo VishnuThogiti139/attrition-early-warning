@@ -1,0 +1,136 @@
+Department,JobRole,TenureBand,n,risk,attrition_rate,suppressed
+Human Resources,Healthcare Representative,<1,0,,,True
+Human Resources,Healthcare Representative,1-3,0,,,True
+Human Resources,Healthcare Representative,3-5,0,,,True
+Human Resources,Healthcare Representative,5-10,0,,,True
+Human Resources,Healthcare Representative,10+,0,,,True
+Human Resources,Human Resources,<1,0,,,True
+Human Resources,Human Resources,1-3,2,,,True
+Human Resources,Human Resources,3-5,4,,,True
+Human Resources,Human Resources,5-10,4,,,True
+Human Resources,Human Resources,10+,1,,,True
+Human Resources,Laboratory Technician,<1,0,,,True
+Human Resources,Laboratory Technician,1-3,0,,,True
+Human Resources,Laboratory Technician,3-5,0,,,True
+Human Resources,Laboratory Technician,5-10,0,,,True
+Human Resources,Laboratory Technician,10+,0,,,True
+Human Resources,Manager,<1,0,,,True
+Human Resources,Manager,1-3,0,,,True
+Human Resources,Manager,3-5,0,,,True
+Human Resources,Manager,5-10,1,,,True
+Human Resources,Manager,10+,3,,,True
+Human Resources,Manufacturing Director,<1,0,,,True
+Human Resources,Manufacturing Director,1-3,0,,,True
+Human Resources,Manufacturing Director,3-5,0,,,True
+Human Resources,Manufacturing Director,5-10,0,,,True
+Human Resources,Manufacturing Director,10+,0,,,True
+Human Resources,Research Director,<1,0,,,True
+Human Resources,Research Director,1-3,0,,,True
+Human Resources,Research Director,3-5,0,,,True
+Human Resources,Research Director,5-10,0,,,True
+Human Resources,Research Director,10+,0,,,True
+Human Resources,Research Scientist,<1,0,,,True
+Human Resources,Research Scientist,1-3,0,,,True
+Human Resources,Research Scientist,3-5,0,,,True
+Human Resources,Research Scientist,5-10,0,,,True
+Human Resources,Research Scientist,10+,0,,,True
+Human Resources,Sales Executive,<1,0,,,True
+Human Resources,Sales Executive,1-3,0,,,True
+Human Resources,Sales Executive,3-5,0,,,True
+Human Resources,Sales Executive,5-10,0,,,True
+Human Resources,Sales Executive,10+,0,,,True
+Human Resources,Sales Representative,<1,0,,,True
+Human Resources,Sales Representative,1-3,0,,,True
+Human Resources,Sales Representative,3-5,0,,,True
+Human Resources,Sales Representative,5-10,0,,,True
+Human Resources,Sales Representative,10+,0,,,True
+Research & Development,Healthcare Representative,<1,5,0.17543516,0.2,False
+Research & Development,Healthcare Representative,1-3,4,,,True
+Research & Development,Healthcare Representative,3-5,4,,,True
+Research & Development,Healthcare Representative,5-10,7,0.02082089,0.14285714285714285,False
+Research & Development,Healthcare Representative,10+,3,,,True
+Research & Development,Human Resources,<1,0,,,True
+Research & Development,Human Resources,1-3,0,,,True
+Research & Development,Human Resources,3-5,0,,,True
+Research & Development,Human Resources,5-10,0,,,True
+Research & Development,Human Resources,10+,0,,,True
+Research & Development,Laboratory Technician,<1,10,0.36250773,0.1,False
+Research & Development,Laboratory Technician,1-3,10,0.07558899,0.3,False
+Research & Development,Laboratory Technician,3-5,10,0.07072497,0.0,False
+Research & Development,Laboratory Technician,5-10,9,0.055002406,0.0,False
+Research & Development,Laboratory Technician,10+,5,0.020720808,0.0,False
+Research & Development,Manager,<1,0,,,True
+Research & Development,Manager,1-3,1,,,True
+Research & Development,Manager,3-5,0,,,True
+Research & Development,Manager,5-10,1,,,True
+Research & Development,Manager,10+,7,0.009358807,0.0,False
+Research & Development,Manufacturing Director,<1,3,,,True
+Research & Development,Manufacturing Director,1-3,4,,,True
+Research & Development,Manufacturing Director,3-5,5,0.03718545,0.2,False
+Research & Development,Manufacturing Director,5-10,16,0.021966772,0.0625,False
+Research & Development,Manufacturing Director,10+,4,,,True
+Research & Development,Research Director,<1,1,,,True
+Research & Development,Research Director,1-3,2,,,True
+Research & Development,Research Director,3-5,1,,,True
+Research & Development,Research Director,5-10,6,0.010801375,0.0,False
+Research & Development,Research Director,10+,7,0.01552266,0.14285714285714285,False
+Research & Development,Research Scientist,<1,17,0.16774534,0.35294117647058826,False
+Research & Development,Research Scientist,1-3,16,0.13099055,0.25,False
+Research & Development,Research Scientist,3-5,18,0.08355221,0.16666666666666666,False
+Research & Development,Research Scientist,5-10,19,0.08994086,0.2631578947368421,False
+Research & Development,Research Scientist,10+,2,,,True
+Research & Development,Sales Executive,<1,0,,,True
+Research & Development,Sales Executive,1-3,0,,,True
+Research & Development,Sales Executive,3-5,0,,,True
+Research & Development,Sales Executive,5-10,0,,,True
+Research & Development,Sales Executive,10+,0,,,True
+Research & Development,Sales Representative,<1,0,,,True
+Research & Development,Sales Representative,1-3,0,,,True
+Research & Development,Sales Representative,3-5,0,,,True
+Research & Development,Sales Representative,5-10,0,,,True
+Research & Development,Sales Representative,10+,0,,,True
+Sales,Healthcare Representative,<1,0,,,True
+Sales,Healthcare Representative,1-3,0,,,True
+Sales,Healthcare Representative,3-5,0,,,True
+Sales,Healthcare Representative,5-10,0,,,True
+Sales,Healthcare Representative,10+,0,,,True
+Sales,Human Resources,<1,0,,,True
+Sales,Human Resources,1-3,0,,,True
+Sales,Human Resources,3-5,0,,,True
+Sales,Human Resources,5-10,0,,,True
+Sales,Human Resources,10+,0,,,True
+Sales,Laboratory Technician,<1,0,,,True
+Sales,Laboratory Technician,1-3,0,,,True
+Sales,Laboratory Technician,3-5,0,,,True
+Sales,Laboratory Technician,5-10,0,,,True
+Sales,Laboratory Technician,10+,0,,,True
+Sales,Manager,<1,0,,,True
+Sales,Manager,1-3,0,,,True
+Sales,Manager,3-5,1,,,True
+Sales,Manager,5-10,1,,,True
+Sales,Manager,10+,4,,,True
+Sales,Manufacturing Director,<1,0,,,True
+Sales,Manufacturing Director,1-3,0,,,True
+Sales,Manufacturing Director,3-5,0,,,True
+Sales,Manufacturing Director,5-10,0,,,True
+Sales,Manufacturing Director,10+,0,,,True
+Sales,Research Director,<1,0,,,True
+Sales,Research Director,1-3,0,,,True
+Sales,Research Director,3-5,0,,,True
+Sales,Research Director,5-10,0,,,True
+Sales,Research Director,10+,0,,,True
+Sales,Research Scientist,<1,0,,,True
+Sales,Research Scientist,1-3,0,,,True
+Sales,Research Scientist,3-5,0,,,True
+Sales,Research Scientist,5-10,0,,,True
+Sales,Research Scientist,10+,0,,,True
+Sales,Sales Executive,<1,5,0.1608169,0.2,False
+Sales,Sales Executive,1-3,6,0.16880631,0.5,False
+Sales,Sales Executive,3-5,13,0.20851777,0.15384615384615385,False
+Sales,Sales Executive,5-10,17,0.046369843,0.058823529411764705,False
+Sales,Sales Executive,10+,12,0.047627468,0.08333333333333333,False
+Sales,Sales Representative,<1,8,0.57685804,0.25,False
+Sales,Sales Representative,1-3,9,0.30353072,0.4444444444444444,False
+Sales,Sales Representative,3-5,2,,,True
+Sales,Sales Representative,5-10,3,,,True
+Sales,Sales Representative,10+,1,,,True

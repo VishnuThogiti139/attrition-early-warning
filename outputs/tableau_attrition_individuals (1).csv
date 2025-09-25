@@ -1,0 +1,295 @@
+employee_hash,Attrition_Proba,TenureBand,Department,JobRole,TenureBand
+ad5ef4b29e14,0.22326516,<1,Sales,Sales Representative,<1
+cf3ff1a00fa1,0.0025673746,5-10,Research & Development,Research Scientist,5-10
+7595dae9cde8,0.03210281,3-5,Sales,Manager,3-5
+c999d2c4092b,0.00068421016,10+,Research & Development,Manager,10+
+69f59c273b6e,0.14694563,<1,Research & Development,Research Scientist,<1
+4cd31e5e6c40,0.07867999,3-5,Research & Development,Manufacturing Director,3-5
+18beb4813723,0.030029865,3-5,Research & Development,Manufacturing Director,3-5
+bd54ada85755,0.008082361,10+,Research & Development,Manager,10+
+a0bd94956b9f,0.0019288264,5-10,Research & Development,Manufacturing Director,5-10
+6793f9e266ce,0.43391967,<1,Research & Development,Research Scientist,<1
+1b365a4dfc8a,0.018029166,5-10,Research & Development,Research Scientist,5-10
+d0f451801443,0.20586422,5-10,Sales,Sales Executive,5-10
+f747870ae666,0.058394484,5-10,Research & Development,Laboratory Technician,5-10
+a142832c40df,0.061646577,10+,Sales,Sales Executive,10+
+40367c3cc999,0.058703896,5-10,Research & Development,Laboratory Technician,5-10
+ea415bf50eb6,0.23640968,3-5,Research & Development,Research Scientist,3-5
+5ef6514ed330,0.009648377,5-10,Sales,Sales Executive,5-10
+73daa9289ddd,0.00205611,5-10,Sales,Sales Executive,5-10
+130790feced0,0.2969353,<1,Research & Development,Manufacturing Director,<1
+a5ae3f2dbbf7,0.0028467162,3-5,Research & Development,Research Scientist,3-5
+62f6d46c48c7,0.27954635,1-3,Sales,Sales Representative,1-3
+e40a3fa00fd2,0.06318753,5-10,Research & Development,Manufacturing Director,5-10
+32396038fca0,0.009379511,1-3,Research & Development,Research Scientist,1-3
+51e681141116,0.0021714992,1-3,Research & Development,Healthcare Representative,1-3
+235aa062e637,0.011441416,5-10,Research & Development,Research Scientist,5-10
+e1bb74a77947,0.26755932,3-5,Sales,Sales Executive,3-5
+4cbe3d6227ab,0.054177504,3-5,Research & Development,Laboratory Technician,3-5
+3068430da9e4,0.023536513,3-5,Research & Development,Manufacturing Director,3-5
+72805ff7c0f2,0.024853224,5-10,Sales,Sales Executive,5-10
+6208ef0f7750,0.0040983465,10+,Research & Development,Research Director,10+
+de690d1ae70d,0.008803541,10+,Research & Development,Research Scientist,10+
+d8ed8ca27d83,0.18734916,<1,Research & Development,Laboratory Technician,<1
+5c344ba70448,0.031720594,<1,Research & Development,Research Scientist,<1
+41966e55400c,0.027178137,5-10,Sales,Sales Executive,5-10
+a8443b142665,0.2821108,<1,Research & Development,Laboratory Technician,<1
+47fec9f49117,0.7800968,5-10,Research & Development,Research Scientist,5-10
+37834f2f2576,0.02233427,3-5,Research & Development,Research Director,3-5
+d7c7673ba8ca,0.021112569,5-10,Sales,Sales Executive,5-10
+0d866ba9f9fd,0.07469339,5-10,Research & Development,Laboratory Technician,5-10
+25b7c81e7700,0.6228271,1-3,Research & Development,Research Scientist,1-3
+a30f4ef42176,0.003366571,5-10,Research & Development,Healthcare Representative,5-10
+0e6801798cea,0.1589987,3-5,Research & Development,Laboratory Technician,3-5
+02cca3803b56,0.005192535,10+,Sales,Manager,10+
+2e355fa8b5ac,0.06108222,<1,Sales,Sales Executive,<1
+8cd6cb7e1601,0.03569953,5-10,Research & Development,Research Scientist,5-10
+700e459d870c,0.061235778,3-5,Sales,Sales Executive,3-5
+76d6a8153b2e,0.0992689,1-3,Research & Development,Laboratory Technician,1-3
+f898c0e2fa3b,0.025250405,3-5,Research & Development,Research Scientist,3-5
+7104741a92e7,0.008279942,1-3,Research & Development,Laboratory Technician,1-3
+f138665c5aa6,0.016879102,5-10,Sales,Sales Executive,5-10
+e5ce886c0b08,0.051812977,3-5,Sales,Sales Executive,3-5
+54e87e278337,0.0154177975,5-10,Research & Development,Laboratory Technician,5-10
+9e088cddb90e,0.0617634,5-10,Sales,Sales Executive,5-10
+6fb4775fed72,0.01654578,3-5,Sales,Sales Representative,3-5
+f6543e952ecb,0.0026004086,1-3,Research & Development,Research Scientist,1-3
+35c71bd7eaf4,0.017529722,<1,Research & Development,Research Scientist,<1
+36c1cc2f9d70,0.0045568985,10+,Research & Development,Manufacturing Director,10+
+dac53c17c250,0.34320205,1-3,Sales,Sales Executive,1-3
+23c5910b8b10,0.05453614,5-10,Research & Development,Healthcare Representative,5-10
+665cb02ac3b3,0.09201436,5-10,Sales,Sales Executive,5-10
+ad608cd85671,0.013263742,3-5,Sales,Sales Executive,3-5
+2fe98face818,0.041249324,10+,Research & Development,Laboratory Technician,10+
+39bb88f40d3a,0.030608708,5-10,Research & Development,Research Scientist,5-10
+ce63ea0809ce,0.03355515,1-3,Research & Development,Research Scientist,1-3
+9bbf7a2c2940,0.07190043,3-5,Research & Development,Laboratory Technician,3-5
+cca40327e9be,0.009435336,5-10,Human Resources,Human Resources,5-10
+b4944c6ff08d,0.022905532,5-10,Research & Development,Manufacturing Director,5-10
+8ffe8459134b,0.2189921,3-5,Human Resources,Human Resources,3-5
+57c03210be82,0.2346348,3-5,Research & Development,Research Scientist,3-5
+58eb0dd988df,0.03211265,<1,Sales,Sales Representative,<1
+df34d853f2f2,0.11133413,5-10,Human Resources,Human Resources,5-10
+bfa7634640c5,0.0037337437,10+,Sales,Sales Executive,10+
+c47affb712a5,0.015856735,5-10,Research & Development,Manufacturing Director,5-10
+e41fbda961c9,0.031304333,3-5,Research & Development,Laboratory Technician,3-5
+8e612bd1f5d1,0.010428652,<1,Research & Development,Research Scientist,<1
+9988ad0a66f2,0.005812085,5-10,Research & Development,Manufacturing Director,5-10
+47f6c8c4b34d,0.0020337328,5-10,Research & Development,Healthcare Representative,5-10
+6d976934be74,0.01035197,10+,Sales,Sales Executive,10+
+74ed65a2d22a,0.07450212,5-10,Research & Development,Laboratory Technician,5-10
+79bf08685d31,0.011342812,10+,Research & Development,Laboratory Technician,10+
+6b05617279df,0.028247977,10+,Sales,Sales Executive,10+
+285b71922aaa,0.9391531,1-3,Research & Development,Research Scientist,1-3
+bc52dd634277,0.018462595,10+,Research & Development,Healthcare Representative,10+
+e29c9c180c62,0.001563371,10+,Research & Development,Manager,10+
+802e03bf4889,0.005006779,5-10,Sales,Sales Executive,5-10
+41a5bf614853,0.053013682,<1,Research & Development,Manufacturing Director,<1
+709df012e236,0.0039686137,<1,Research & Development,Healthcare Representative,<1
+4aec429ac0bf,0.004947366,10+,Human Resources,Human Resources,10+
+683d098205b1,0.01334653,5-10,Research & Development,Healthcare Representative,5-10
+b97d4904938f,0.01676049,5-10,Sales,Sales Executive,5-10
+82c01ce15b43,0.013076359,10+,Sales,Sales Executive,10+
+7c252ab334fb,0.0043874974,10+,Research & Development,Manager,10+
+7deef068fe93,0.98802036,<1,Sales,Sales Representative,<1
+51cfe39433c3,0.22751895,1-3,Sales,Sales Representative,1-3
+0f78540965a8,0.25876787,1-3,Sales,Sales Representative,1-3
+d55a6ae3aba2,0.3495219,1-3,Sales,Sales Representative,1-3
+c4c9f099e7a4,0.27225664,5-10,Research & Development,Research Scientist,5-10
+983bd614bb5a,0.010431576,5-10,Research & Development,Research Scientist,5-10
+152e69cf3c8e,0.057653144,3-5,Sales,Sales Executive,3-5
+cba8d3a39041,0.08165342,5-10,Research & Development,Research Scientist,5-10
+2ff2a721fab1,0.004519709,1-3,Research & Development,Research Director,1-3
+542cacae1d41,0.06186476,<1,Research & Development,Laboratory Technician,<1
+477f4b2cdd3f,0.008695796,3-5,Research & Development,Research Scientist,3-5
+35fcdee9b923,0.012065277,5-10,Research & Development,Research Scientist,5-10
+f7ac69722a07,0.49531153,<1,Sales,Sales Representative,<1
+97b3e84b5db5,0.026141824,10+,Sales,Sales Executive,10+
+ee1a7173778d,0.066361405,<1,Research & Development,Research Scientist,<1
+9a72c24f2fd7,0.0011119843,10+,Research & Development,Research Director,10+
+6fdd9b073bc0,0.12120261,1-3,Research & Development,Laboratory Technician,1-3
+e97e2ffefd96,0.0035625647,1-3,Research & Development,Research Scientist,1-3
+583b08e38c98,0.040636674,1-3,Research & Development,Manufacturing Director,1-3
+35ca46713cea,0.10445432,3-5,Research & Development,Research Scientist,3-5
+929335bd8157,0.015970942,5-10,Human Resources,Manager,5-10
+ff5a1ae012af,0.012673355,3-5,Research & Development,Healthcare Representative,3-5
+2ee1a4c2b1f1,0.009814079,3-5,Research & Development,Laboratory Technician,3-5
+46d4c7c3285e,0.039995916,10+,Research & Development,Laboratory Technician,10+
+f0ccd8e78b61,0.016732587,1-3,Research & Development,Laboratory Technician,1-3
+1b3c33580f2e,0.048518274,1-3,Research & Development,Healthcare Representative,1-3
+c837649cce43,0.0095439395,10+,Research & Development,Laboratory Technician,10+
+c7b96125d8bb,0.010830391,5-10,Research & Development,Manufacturing Director,5-10
+011af72a910a,0.015552501,1-3,Research & Development,Laboratory Technician,1-3
+d15e7843961e,0.22456102,<1,Research & Development,Research Scientist,<1
+311ba2ed6a5b,0.00918636,10+,Research & Development,Research Director,10+
+d9521266ec77,0.07682914,5-10,Sales,Sales Representative,5-10
+f7961248034a,0.16463481,1-3,Research & Development,Laboratory Technician,1-3
+9f14025af006,0.0195683,5-10,Sales,Sales Executive,5-10
+451b01cbb6bd,0.27392346,3-5,Research & Development,Research Scientist,3-5
+dcaadad1cfce,0.18829888,5-10,Sales,Sales Executive,5-10
+6815fd0989fc,0.24619985,1-3,Research & Development,Healthcare Representative,1-3
+dd49477b0b97,0.053751163,5-10,Sales,Sales Executive,5-10
+766cb53c753b,0.41370237,3-5,Sales,Sales Representative,3-5
+e7faa8b075ab,0.0017580296,1-3,Research & Development,Manager,1-3
+0e7843780563,0.02272616,5-10,Research & Development,Research Scientist,5-10
+51054b8a0328,0.16255818,1-3,Sales,Sales Representative,1-3
+27badc983df1,0.050773002,3-5,Research & Development,Laboratory Technician,3-5
+ec54e9951466,0.6396691,<1,Research & Development,Laboratory Technician,<1
+b471aeea2682,0.41172582,<1,Sales,Sales Executive,<1
+35bbce4007c5,0.06972999,<1,Research & Development,Healthcare Representative,<1
+8ba36ede1aa5,0.0102125,1-3,Research & Development,Manufacturing Director,1-3
+3c4ee858b268,0.032654766,10+,Research & Development,Manager,10+
+e81d47bc1914,0.002575271,5-10,Research & Development,Research Director,5-10
+841a05fd378a,0.0034763205,5-10,Research & Development,Manufacturing Director,5-10
+64c212df34c6,0.11148059,1-3,Research & Development,Research Scientist,1-3
+814fd2e8e45e,0.17270008,1-3,Human Resources,Human Resources,1-3
+45297c633d33,0.1323733,<1,Research & Development,Research Scientist,<1
+1d0ebea552eb,0.006648956,5-10,Sales,Sales Executive,5-10
+b1d7183ef649,0.18143485,3-5,Sales,Sales Executive,3-5
+aee4848a8580,0.059107833,5-10,Research & Development,Laboratory Technician,5-10
+16badfc6202c,0.014756713,1-3,Research & Development,Research Scientist,1-3
+0b35b06a2277,0.0036460354,10+,Research & Development,Research Director,10+
+a13df1211cf4,0.07778096,10+,Sales,Sales Executive,10+
+c8f5600f3eb7,0.015231712,5-10,Research & Development,Manufacturing Director,5-10
+a3346b8b4c26,0.005255453,3-5,Research & Development,Research Scientist,3-5
+156091ee0884,0.004552095,10+,Research & Development,Manager,10+
+f68a11527b81,0.0069959103,5-10,Research & Development,Manufacturing Director,5-10
+bb668ca95563,0.097689025,3-5,Research & Development,Research Scientist,3-5
+5313e5bf1714,0.07643166,1-3,Research & Development,Research Scientist,1-3
+d818f221cbcb,0.001904304,10+,Research & Development,Healthcare Representative,10+
+d829857eb136,0.24015994,1-3,Sales,Sales Executive,1-3
+00f6112fe583,0.15714389,3-5,Sales,Sales Executive,3-5
+4099ed5ba70a,0.010178052,1-3,Sales,Sales Executive,1-3
+87e50b287059,0.022645537,10+,Human Resources,Manager,10+
+eb1e33e8a81b,0.012741342,3-5,Research & Development,Research Scientist,3-5
+52a6eb687cd2,0.0039949794,3-5,Human Resources,Human Resources,3-5
+8b80f49ec282,0.1485491,1-3,Research & Development,Research Scientist,1-3
+a3d0c75739a3,0.018459085,3-5,Human Resources,Human Resources,3-5
+e18037f42fd0,0.1281634,5-10,Research & Development,Research Scientist,5-10
+639c1115ab55,0.07649792,1-3,Sales,Sales Executive,1-3
+4b227777d4dd,0.5830622,<1,Research & Development,Laboratory Technician,<1
+8ede6b263433,0.046811573,1-3,Research & Development,Research Director,1-3
+a0119e19d7f7,0.023170553,5-10,Research & Development,Manufacturing Director,5-10
+058d5d43bf48,0.021408077,<1,Research & Development,Research Scientist,<1
+e078af3026ed,0.15248014,<1,Sales,Sales Representative,<1
+56cc29cee9e8,0.24973144,<1,Sales,Sales Executive,<1
+5e5c743a015f,0.043544013,5-10,Research & Development,Research Scientist,5-10
+c2a181d8178a,0.0011623701,10+,Human Resources,Manager,10+
+b0ab628c9e14,0.09149883,1-3,Research & Development,Laboratory Technician,1-3
+e52d08747b9d,0.0014720472,10+,Research & Development,Laboratory Technician,10+
+b7e307660e16,0.051723097,<1,Sales,Sales Executive,<1
+2cfd4b162e42,0.09656195,5-10,Research & Development,Research Scientist,5-10
+37c20f19f327,0.022223163,3-5,Research & Development,Research Scientist,3-5
+1aa3e4f8f4a3,0.06734669,10+,Sales,Sales Representative,10+
+023e33504ab9,0.108991325,5-10,Sales,Sales Representative,5-10
+377adeb4cd40,0.43115586,3-5,Research & Development,Research Scientist,3-5
+c010bb0f7f8f,0.031054046,10+,Research & Development,Research Director,10+
+15d45f250912,0.0009973424,5-10,Research & Development,Research Scientist,5-10
+777abbc10ddf,0.0019152873,1-3,Research & Development,Research Scientist,1-3
+43c727ee4fc7,0.0097808,<1,Research & Development,Research Scientist,<1
+46ff18131a6d,0.015583151,10+,Sales,Manager,10+
+baa8a6ecbabb,0.1170853,<1,Research & Development,Research Scientist,<1
+d253d7b7ace4,0.24568097,10+,Sales,Sales Executive,10+
+5d8f6cce532a,0.0027810282,1-3,Research & Development,Research Scientist,1-3
+929f003731a9,0.01785439,3-5,Research & Development,Healthcare Representative,3-5
+79d6eaa26761,0.05116543,10+,Research & Development,Research Director,10+
+6b6803d3f23f,0.0021074845,5-10,Research & Development,Research Director,5-10
+afccd937e6ac,0.014340528,5-10,Human Resources,Human Resources,5-10
+70399d63b169,0.20338865,5-10,Sales,Sales Representative,5-10
+963826088133,0.2847887,3-5,Sales,Sales Executive,3-5
+47c5fbf51c63,0.029821916,<1,Sales,Sales Executive,<1
+e8c5e943ad4f,0.7928328,<1,Sales,Sales Representative,<1
+e6d3cee8c029,0.99154997,<1,Sales,Sales Representative,<1
+38b83caefa1e,0.032408644,5-10,Research & Development,Research Director,5-10
+58070c528ac8,0.06748047,1-3,Research & Development,Research Scientist,1-3
+f24f1a64b591,0.008770449,10+,Human Resources,Manager,10+
+785f3ec7eb32,0.45055327,<1,Research & Development,Laboratory Technician,<1
+fa88d374b9cf,0.008396414,10+,Research & Development,Research Director,10+
+5d9e09b09389,0.024281694,5-10,Research & Development,Research Director,5-10
+a15faf6f6c7e,0.15987884,3-5,Research & Development,Laboratory Technician,3-5
+c08ee2a296e9,0.024972267,5-10,Sales,Sales Executive,5-10
+fd21cc3cb506,0.011684911,3-5,Research & Development,Research Scientist,3-5
+01d54579da44,0.0037356687,1-3,Research & Development,Manufacturing Director,1-3
+6f13d39f5c46,0.0033961379,10+,Sales,Manager,10+
+753f5d07dca2,0.021400841,<1,Research & Development,Research Director,<1
+ea85b0d61253,0.00801674,1-3,Research & Development,Manufacturing Director,1-3
+200dd69b70a8,0.9723131,1-3,Sales,Sales Representative,1-3
+a4ecdd704d25,0.057709623,5-10,Research & Development,Laboratory Technician,5-10
+093434a3ee9e,0.018014787,<1,Research & Development,Manufacturing Director,<1
+4cd468501fc1,0.05634372,1-3,Human Resources,Human Resources,1-3
+ef2d127de37b,0.09723724,5-10,Research & Development,Research Scientist,5-10
+31489056e091,0.252791,1-3,Sales,Sales Representative,1-3
+40794500a284,0.0013027764,5-10,Sales,Manager,5-10
+462c39f8e9bb,0.026392901,5-10,Research & Development,Healthcare Representative,5-10
+3ef58410b868,0.023243858,5-10,Research & Development,Healthcare Representative,5-10
+52f14fc33ef4,0.93929195,<1,Sales,Sales Representative,<1
+df4865fca1f1,0.052977968,10+,Research & Development,Healthcare Representative,10+
+8dfd13f43760,0.005066376,1-3,Research & Development,Research Scientist,1-3
+62e66f3e9936,0.48639876,<1,Research & Development,Laboratory Technician,<1
+83eaf4dc5e19,0.05135183,1-3,Research & Development,Laboratory Technician,1-3
+55f0124bb79f,0.0010035249,5-10,Research & Development,Research Director,5-10
+ae4def1ecaae,0.009643643,3-5,Research & Development,Healthcare Representative,3-5
+be1722b1d104,0.029739099,10+,Research & Development,Manufacturing Director,10+
+6ad4a6b1e5ea,0.0046023773,3-5,Research & Development,Manufacturing Director,3-5
+bff3992c1d4f,0.02570878,1-3,Research & Development,Research Scientist,1-3
+ddb3686e0d40,0.0490785,3-5,Research & Development,Manufacturing Director,3-5
+8d27ba37c5d8,0.007990489,<1,Research & Development,Healthcare Representative,<1
+5a39cadd1b00,0.0145987645,5-10,Research & Development,Manager,5-10
+40207240ec43,0.048731845,1-3,Research & Development,Laboratory Technician,1-3
+66c2e6dd7fe3,0.013177157,5-10,Research & Development,Laboratory Technician,5-10
+b5a9ede9a935,0.10449914,<1,Research & Development,Research Scientist,<1
+3ef4ba73834a,0.3335543,<1,Research & Development,Research Scientist,<1
+9c05d48bbde0,0.0026008487,10+,Research & Development,Manufacturing Director,10+
+5ec1a0c99d42,0.35396847,<1,Research & Development,Laboratory Technician,<1
+7a9b1b9dd2e4,0.0016997609,5-10,Research & Development,Research Scientist,5-10
+c211bfaf37ed,0.034684014,3-5,Research & Development,Laboratory Technician,3-5
+fc95ce176603,0.009376056,10+,Research & Development,Manufacturing Director,10+
+3bd625f07792,0.073630415,3-5,Sales,Sales Executive,3-5
+3837e1aa083f,0.13110058,<1,Research & Development,Research Scientist,<1
+6f4b6612125f,0.016723096,5-10,Research & Development,Research Scientist,5-10
+8527a891e224,0.03552487,3-5,Research & Development,Laboratory Technician,3-5
+33eb7e4ae43f,0.015706038,5-10,Research & Development,Manufacturing Director,5-10
+0bba869d7f39,0.138636,1-3,Research & Development,Laboratory Technician,1-3
+f8b729102586,0.7893222,<1,Research & Development,Healthcare Representative,<1
+22cdd352056c,0.004606497,10+,Sales,Sales Executive,10+
+04aa39fcb509,0.04637346,5-10,Research & Development,Research Scientist,5-10
+63a4b69673ba,0.003921758,3-5,Research & Development,Research Scientist,3-5
+612111a352a5,0.0034251984,10+,Sales,Manager,10+
+095eaa09cd36,0.7205111,3-5,Sales,Sales Executive,3-5
+39e18a493b91,0.1959934,3-5,Human Resources,Human Resources,3-5
+556d7dc3a115,0.02304186,1-3,Sales,Sales Executive,1-3
+e78f27ab3ef1,0.002335025,10+,Sales,Sales Executive,10+
+da28719dfd9c,0.00019293776,5-10,Research & Development,Manufacturing Director,5-10
+2b5d2ba5803e,0.022826497,5-10,Research & Development,Healthcare Representative,5-10
+255afccc8af6,0.022817595,5-10,Research & Development,Manufacturing Director,5-10
+d50d8ea32d67,0.0026532086,10+,Sales,Sales Executive,10+
+899fe985e893,0.011910987,5-10,Sales,Sales Executive,5-10
+138d9e809e38,0.009489132,3-5,Research & Development,Research Scientist,3-5
+2c1f3f5f6523,0.0033926165,3-5,Research & Development,Healthcare Representative,3-5
+a4fd40788cd5,0.0414721,<1,Research & Development,Research Scientist,<1
+82887006d04d,0.100193925,3-5,Research & Development,Laboratory Technician,3-5
+0fbc9039145b,0.0061644446,<1,Research & Development,Healthcare Representative,<1
+7ac25d5d84ca,0.074105166,<1,Research & Development,Research Scientist,<1
+fc71f2d6d38d,0.003372869,5-10,Research & Development,Manufacturing Director,5-10
+ad3b83575249,0.001888085,3-5,Research & Development,Research Scientist,3-5
+bf31e6128301,0.101855166,1-3,Sales,Sales Representative,1-3
+34be1021b378,0.009229885,3-5,Research & Development,Research Scientist,3-5
+01d77b0b1bd2,0.16845104,3-5,Sales,Sales Executive,3-5
+8c004c94eb68,0.95482516,<1,Research & Development,Research Scientist,<1
+2f1987bf98c0,0.35915962,<1,Research & Development,Laboratory Technician,<1
+455ae2dfc77d,0.08843646,3-5,Sales,Sales Executive,3-5
+3538a1ef2e11,0.013587344,10+,Research & Development,Manager,10+
+67aa578ed1fd,0.083315335,5-10,Research & Development,Laboratory Technician,5-10
+0eaa69a16d7c,0.023837077,5-10,Research & Development,Manufacturing Director,5-10
+b20a51d1d0cd,0.012445961,3-5,Research & Development,Research Scientist,3-5
+36c321ad538f,0.11614624,5-10,Research & Development,Manufacturing Director,5-10
+2fca346db656,0.22094104,<1,Research & Development,Laboratory Technician,<1
+3f5f3806e425,0.09527449,10+,Sales,Sales Executive,10+
+3f9eb849d100,0.0024316323,5-10,Research & Development,Research Director,5-10
+76bf061a545d,0.5848096,3-5,Sales,Sales Executive,3-5
+d7008e68b135,0.12690388,1-3,Sales,Sales Representative,1-3
+79672d8381e0,0.00754847,5-10,Human Resources,Human Resources,5-10
+262b06d105e1,0.0015553879,1-3,Research & Development,Healthcare Representative,1-3
+8b0ae2d638c1,0.31975812,1-3,Sales,Sales Executive,1-3
+497e671df1de,0.030601006,1-3,Research & Development,Research Scientist,1-3
+a934c244755c,0.0012641215,10+,Research & Development,Research Scientist,10+
